@@ -1,0 +1,12 @@
+{
+  "name": "workerjs-config",
+  "version": "0.0.1",
+  "description": "git@github.com:workerJS/workerjs-config.git",
+  "main": "index.js",
+  "repository": "git@github.com:workerJS/workerjs-config.git",
+  "author": "nemanjan00 <nemanjan00@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^6.2.0"
+  }
+}
