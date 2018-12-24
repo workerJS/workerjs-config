@@ -1,6 +1,6 @@
 {
   "name": "workerjs-config",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "git@github.com:workerJS/workerjs-config.git",
   "main": "index.js",
   "repository": "git@github.com:workerJS/workerjs-config.git",
